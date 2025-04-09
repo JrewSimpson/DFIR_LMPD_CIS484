@@ -1,4 +1,4 @@
-# Quick Info for Digital Forensics Investigation Project
+# Quick Info for the Digital Forensics Investigation Project
 
 The full scenario for this project is described in the CIS484_Project4.pdf.
 
